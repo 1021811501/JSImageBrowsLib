@@ -1,0 +1,2 @@
+# JSImageBrowsLib
+cocoapods支持
